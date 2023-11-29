@@ -15,7 +15,7 @@ You could use this simplified accounting in case you work with an (external) acc
     'depends' : ['base'],
     'data': [
         'security/ir.model.access.csv',
-        'views/school_school_views.xml',
+        'views/hospital_hospital_views.xml',
     ],
     'installable': True,
     'application': True,
